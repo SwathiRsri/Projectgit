@@ -11,6 +11,7 @@ public class Employee  {
 		emp.empName();
 		Client cl = new Client();
 		cl.clientName();
+		cl.clientName2();
 		Company co=new Company();
 		co.companyName();
 		Project pro = new Project();
